@@ -1,0 +1,8 @@
+Start in root directory.
+
+1. ls ./pages | Select Name
+2. Copy filenames into ./files.html
+3. git add .
+4. git commit -m "message goes here"
+5. git pull origin gh-pages
+6. git push origin gh-pages
